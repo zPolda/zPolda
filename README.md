@@ -11,8 +11,12 @@ Minha trajetória em Análise e Desenvolvimento de Sistemas despertou em mim uma
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="#siem-implementation-and-log-analysis">SIEM Implementation and Log Analysis</a> |
+| Network Traffic Monitoring and Attack Detection | Mini SOC Environment</a> |
+| Active Directory Management                    | Active Directory Environment</a> |
+| SOC Automation                                 | SOC Automation Project</a> |
+| SOAR + EDR Integration                         | SOAR + EDR Integration Project</a> |
+
 
 ## Tools
 
