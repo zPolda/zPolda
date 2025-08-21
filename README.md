@@ -12,8 +12,8 @@ Minha trajetória em Análise e Desenvolvimento de Sistemas despertou em mim uma
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/zPolda/SIEM-Implementation-and-Log-Analysis/blob/main/README.md">SIEM Implementation and Log Analysis</a> |
-| Network Traffic Monitoring and Attack Detection | Mini SOC Environment</a> |
 | Active Directory Management                    | Active Directory Environment</a> |
+| Network Traffic Monitoring and Attack Detection | Mini SOC Environment</a> |
 | SOC Automation                                 | SOC Automation Project</a> |
 | SOAR + EDR Integration                         | SOAR + EDR Integration Project</a> |
 
