@@ -12,7 +12,7 @@ Minha trajetória em Análise e Desenvolvimento de Sistemas despertou em mim uma
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/zPolda/SIEM-Implementation-and-Log-Analysis/blob/main/README.md">SIEM Implementation and Log Analysis</a> |
-| Active Directory Management                    | Active Directory Environment</a> |
+| Active Directory Management                    | <a href="https://github.com/zPolda/Active-Directory-Environment/blob/main/README.md">Active Directory Environment</a> |
 | Network Traffic Monitoring and Attack Detection | Mini SOC Environment</a> |
 | SOC Automation                                 | SOC Automation Project</a> |
 | SOAR + EDR Integration                         | SOAR + EDR Integration Project</a> |
@@ -85,7 +85,8 @@ Minha trajetória em Análise e Desenvolvimento de Sistemas despertou em mim uma
   <a href="https://github.com/zPolda/SIEM-Implementation-and-Log-Analysis/blob/main/README.md">🔗 Ver Projeto</a>  
   Projeto focado na implementação de um ambiente de **SIEM** para monitoramento e análise de logs de segurança.
   
-- **Active Directory Environment**   
+- **Active Directory Environment**
+  <a href="https://github.com/zPolda/Active-Directory-Environment/blob/main/README.md">🔗 Ver Projeto</a>
   Ambiente de laboratório configurado com Active Directory, políticas de grupo (GPO), usuários e permissões, voltado para simulações de segurança e práticas de auditoria.
 
 - **Mini SOC Environment**  
