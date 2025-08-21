@@ -85,9 +85,9 @@ Minha trajetória em Análise e Desenvolvimento de Sistemas despertou em mim uma
   <a href="https://github.com/zPolda/SIEM-Implementation-and-Log-Analysis/blob/main/README.md">🔗 Ver Projeto</a>  
   Projeto focado na implementação de um ambiente de **SIEM** para monitoramento e análise de logs de segurança.
   
-- **Active Directory Environment**
-  <a href="https://github.com/zPolda/Active-Directory-Environment/blob/main/README.md">🔗 Ver Projeto</a>
-  Ambiente de laboratório configurado com Active Directory, políticas de grupo (GPO), usuários e permissões, voltado para simulações de segurança e práticas de auditoria.
+- **Active Directory Environment**    
+ <a href="https://github.com/zPolda/Active-Directory-Environment/blob/main/README.md">🔗 Ver Projeto</a>    
+ Ambiente de laboratório configurado com Active Directory, políticas de grupo (GPO), usuários e permissões, voltado para simulações de segurança e práticas de auditoria.
 
 - **Mini SOC Environment**  
   Laboratório de SOC em pequena escala, integrando SIEM (Wazuh/Splunk), IDS/IPS (Suricata), e ferramentas de monitoramento de rede. Simula ataques e incidentes para treinar detecção, análise e resposta a ameaças em ambiente controlado.
