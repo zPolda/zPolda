@@ -61,7 +61,7 @@ Minha trajetória em Análise e Desenvolvimento de Sistemas despertou em mim uma
 - [x] Certificação **Google Cybersecurity**
 - [x] Experiência em **Governança e Compliance** (ISO 27001/27002, NIST, LGPD)
 - [x] Projeto prático: **SIEM Implementation and Log Analysis**
-- [ ] Projeto prático: **Active Directory Environment**
+- [x] Projeto prático: **Active Directory Environment**
 - [ ] Projeto prático: **Mini SOC Environment**
 - [ ] Projeto prático: **SOC Automation Project**
 - [ ] Projeto prático: **SOAR + EDR Integration Project**
